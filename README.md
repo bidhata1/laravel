@@ -5,7 +5,7 @@
 # ajax
 # crud operation
 -create database name crud_db 
--run command :php artisan serve and go through route "http://localhost:8000/companies"
+-run command :php artisan serve and go through route "/companies"
 
 
 # simple app to perform crud operation
